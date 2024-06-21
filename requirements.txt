@@ -1,0 +1,12 @@
+# First we will import the necessary Library 
+os
+pandas
+numpy
+math
+datetime
+matplotlib
+
+# For Evaluation we will use these library
+scikit-learn
+tensorflow
+plotly
